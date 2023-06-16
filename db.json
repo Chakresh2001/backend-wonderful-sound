@@ -1,0 +1,287 @@
+{
+  "cards":
+  [
+    {
+      "id" : 1,
+      "cardName" : "Citi Rewards+ Card",
+      "cardType" : "mastercard",
+      "cardImg" : "https://ck-content.imgix.net/pcm/content/8f0245e22ef240f0649d-CitiRewards.png?auto=compress%2Cformat&dpr=1",
+      "bankName" : "Citi Bank",
+      "reviews" : 93,
+      "cardPrice" : 150,
+      "IBTapr" : "0% for 15 Months",
+      "RBTapr" : "18.49% - 28.49%* Variable",
+      "BTF" : "Intro fee 3% of each transfer ($5 min) completed within the first 4 months of account opening. After that, 5% of each transfer ($5 min).",
+      "AF" : "$0",
+      "details": [
+        {
+          "desc":"Earn 25,000 bonus points after you spend $1,500 in purchases with your card within 3 months of account opening; redeemable for $250 in gift cards at thankyou.com. Plus, for a limited time, earn 5 ThankYou® Points per $1 spent on hotel, car rentals, and attractions (excluding air travel) booked on the Citi Travel℠ Portal through June 30, 2024."
+        },
+        {
+          "desc":"0% Intro APR on balance transfers for 15 months from date of first transfer and on purchases from date of account opening. After that, the variable APR will be 18.49% - 28.49%, based on your creditworthiness. There is an intro balance transfer fee of 3% of each transfer (minimum $5) completed within the first 4 months of account opening. After that, your fee will be 5% of each transfer (minimum $5)."
+        },
+        {
+          "desc":"Earn 2X ThankYou® Points at Supermarkets and Gas Stations for the first $6,000 per year and then 1X Points thereafter. Plus, earn 1X ThankYou® Points on All Other Purchases."
+        }
+      ]
+    },
+    {
+      "id" : 2,
+      "cardName" : "Citi Simplicity Card",
+      "cardType" : "mastercard",
+      "cardImg" : "https://ck-content.imgix.net/pcm/content/9d57cd9cdc02ba1a9222-Simplcity_Card_1200x755.png?auto=compress%2Cformat&dpr=1",
+      "bankName" : "Citi Bank",
+      "reviews" : 293,
+      "cardPrice" : 175,
+      "IBTapr" : "0% for 21 Months",
+      "RBTapr" : "18.99% - 29.74%* Variable",
+      "BTF" : "Intro fee 3% of each transfer ($5 min) completed within the first 4 months of account opening. After that, 5% of each transfer ($5 min).",
+      "AF" : "$0",
+      "details": [
+        {
+          "desc": "No Late Fees, No Penalty Rate, and No Annual Fee... Ever"
+        },
+        {
+          "desc": "0% Intro APR for 21 months on balance transfers from date of first transfer and 0% Intro APR for 12 months on purchases from date of account opening. After that the variable APR will be 18.99% - 29.74%, based on your creditworthiness. Balance transfers must be completed within 4 months of account opening."
+        },
+        {
+          "desc": "There is an introductory balance transfer fee of $5 or 3% of the amount of the transfer, whichever is greater for balances transfers completed within 4 months of account opening."
+        }
+      ]
+    },
+    {
+      "id" : 3,
+      "cardName" : "Citi Diamond Preferred Card",
+      "cardType" : "mastercard",
+      "cardImg" : "https://ck-content.imgix.net/pcm/content/1d2641b237826acf4cc6-citidiamondpref.png?auto=compress%2Cformat&dpr=1",
+      "bankName" : "Citi Bank",
+      "reviews" : 128,
+      "cardPrice" : 215,
+      "IBTapr" : "0% for 21 Months",
+      "RBTapr" : "17.99% - 28.74%* Variable",
+      "BTF" : "5%, Min: $5",
+      "AF" : "$0",
+      "details": [
+        {
+         "desc":  "0% Intro APR for 21 months on balance transfers from date of first transfer and 0% Intro APR for 12 months on purchases from date of account opening. After that the variable APR will be 17.99% - 28.74%, based on your creditworthiness. Balance transfers must be completed within 4 months of account opening."
+        },
+        {
+         "desc":  "There is a balance transfer fee of either $5 or 5% of the amount of each transfer, whichever is greater"
+        },
+        {
+          "desc": "Get free access to your FICO® Score online."
+        }
+      ]
+    },
+    {
+      "id" : 4,
+      "cardName" : "Citi Double Cash Card",
+      "cardType" : "mastercard",
+      "cardImg" : "https://ck-content.imgix.net/pcm/content/254aced5082ddf831a61-Double_Cash_Card_1200x755.png?auto=compress%2Cformat&dpr=1",
+      "bankName" : "Citi Bank",
+      "reviews" : 1043,
+      "cardPrice" : 120,
+      "IBTapr" : "0% for 18 Months",
+      "RBTapr" : "18.99% - 28.99%* Variable",
+      "BTF" : "Intro fee 3% of each transfer ($5 min) completed within the first 4 months of account opening. After that, 5% of each transfer ($5 min).",
+      "AF" : "$0",
+      "details": [
+        {
+          "desc":"Earn 2% on every purchase with unlimited 1% cash back when you buy, plus an additional 1% as you pay for those purchases."
+        },
+        {
+          "desc":"There is an intro balance transfer fee of 3% of each transfer (minimum $5) completed within the first 4 months of account opening. After that, your fee will be 5% of each transfer (minimum $5)."
+        },
+        {
+          "desc":"Balance Transfer Only Offer: 0% intro APR on Balance Transfers for 18 months. After that, the variable APR will be 18.99% - 28.99%, based on your creditworthiness."
+        }
+      ]
+    },
+    {
+      "id" : 5,
+      "cardName" : "Bank Of America Customized Cash Rewards Credit Card",
+      "cardType" : "visa",
+      "cardImg" : "https://ck-content.imgix.net/pcm/content/980449aab0709dfbfcb1-bofa_cshsigcm_vFeb22.png?auto=compress%2Cformat&dpr=1",
+      "bankName" : "Bank Of America",
+      "reviews" : 600,
+      "cardPrice" : 225,
+      "IBTapr" : "",
+      "RBTapr" : "17.99% - 27.99%* Variable",
+      "BTF" : "3% of the amount of each transaction",
+      "AF" : "$0",
+      "details": [
+        {
+          "desc": "$200 online cash rewards bonus after you make at least $1,000 in purchases in the first 90 days of account opening."
+        },
+        {
+          "desc":"Earn 3% cash back in the category of your choice, automatic 2% at grocery stores and wholesale clubs (up to $2,500 in combined choice category/grocery store/wholesale club quarterly purchases) and unlimited 1% on all other purchases."
+        },
+        {
+          "desc": "If you're a Preferred Rewards member, you can earn 25%-75% more cash back on every purchase. That means you could earn 3.75%-5.25% cash back on purchases in your choice category."
+        }
+      ]
+    },
+    {
+      "id" : 6,
+      "cardName" : "BankAmericaCard  Credit Card",
+      "cardType" : "mastercard",
+      "cardImg" : "https://ck-content.imgix.net/pcm/content/f69b99ffbc5644884e37-bofa_nrwcm_mc_no_shadow.png?auto=compress%2Cformat&dpr=1",
+      "bankName" : "Bank Of America",
+      "reviews" : 195,
+      "cardPrice" : 205,
+      "IBTapr" : "",
+      "RBTapr" : "15.99% - 25.99%* Variable",
+      "BTF" : "3% of the amount of each transaction",
+      "AF" : "$0",
+      "details": [
+        {
+          "desc": "0% Introductory APR for 21 billing cycles for purchases, and for any balance transfers made in the first 60 days. After the intro APR offer ends, 15.99% - 25.99% Variable APR will apply. A 3% fee applies to all balance transfers."
+        },
+        {
+          "desc": "No penalty APR. Paying late won't automatically raise your interest rate (APR). Other account pricing and terms apply."
+        },
+        {
+          "desc": "This online only offer may not be available if you leave this page or if you visit a Bank of America financial center. You can take advantage of this offer when you apply now."
+        }
+      ]
+    },
+    {
+      "id" : 7,
+      "cardName" : "Bank Of America Unlimited Cash Rewards Credit Card",
+      "cardType" : "visa",
+      "cardImg" : "https://ck-content.imgix.net/pcm/content/120aa221f5c57da6772f-bofa_cshsigcm_v_unlimited.png?auto=compress%2Cformat&dpr=1",
+      "bankName" : "Bank Of America",
+      "reviews" : 35,
+      "cardPrice" : 215,
+      "IBTapr" : "",
+      "RBTapr" : "17.99% - 27.99%* Variable",
+      "BTF" : "3% of the amount of each transaction",
+      "AF" : "$0",
+      "details": [
+        {
+          "desc":"If you're a Preferred Rewards member, you can earn 25%-75% more cash back on every purchase. That means you could earn 1.87%-2.62% cash back on every purchase with Preferred Rewards."
+        },
+        {
+          "desc":"$200 online cash rewards bonus after you make at least $1,000 in purchases in the first 90 days of account opening."
+        },
+        {
+          "desc": "0% Introductory APR for 18 billing cycles for purchases, and for any balance transfers made in the first 60 days. After the intro APR offer ends, 17.99% - 27.99% Variable APR will apply. A 3% fee applies to all balance transfers."
+        }
+      ]
+    },
+    {
+      "id" : 8,
+      "cardName" : "Discover it Balance Transfer",
+      "cardType" : "visa",
+      "cardImg" : "https://ck-content.imgix.net/pcm/content/6b48cd3c8a2480ef526e-discover_it_bt_card_art_.png?auto=compress%2Cformat&dpr=1",
+      "bankName" : "Bank Of America",
+      "reviews" : 20,
+      "cardPrice" : 185,
+      "IBTapr" : "0% for 18 Months",
+      "RBTapr" : "16.99% - 27.99%* Variable",
+      "BTF" : "3% intro balance transfer fee, up to 5% fee on future balance transfers (see terms)*",
+      "AF" : "$0",
+      "details": [
+        {
+          "desc": "INTRO OFFER: Unlimited Cashback Match – only from Discover. Discover will automatically match all the cash back you’ve earned at the end of your first year! There’s no minimum spending or maximum rewards. You could turn $150 cash back into $300."
+        },
+        {
+          "desc": "Earn 5% cash back on everyday purchases at different places each quarter like Amazon.com, grocery stores, restaurants, and gas stations, up to the quarterly maximum when you activate. Plus, earn unlimited 1% cash back on all other purchases – automatically."
+        },
+        {
+          "desc": "Discover could help you reduce exposure of your personal information online by helping you remove it from select people-search sites that could sell your data. It’s free, activate with the mobile app."
+        }
+      ]
+    },
+    {
+      "id" : 9,
+      "cardName" : "Bank Of America Travel Rewards Credit Card For Students",
+      "cardType" : "visa",
+      "cardImg" : "https://ck-content.imgix.net/pcm/content/c69dc60bc0b39ebd6616-bofa_travsigcm_v.png?auto=compress%2Cformat&dpr=1",
+      "bankName" : "Bank Of America",
+      "reviews" : "no reviews yet",
+      "cardPrice" : 95,
+      "IBTapr" : "",
+      "RBTapr" : "17.99% - 27.99%* Variable",
+      "BTF" : "3% of the amount of each transaction",
+      "AF" : "$0",
+      "details": [
+        {
+          "desc": "Earn unlimited 1.5 points per $1 spent on all purchases, with no annual fee and no foreign transaction fees and your points don't expire."
+        },
+        {
+          "desc":"When handled responsibly, a credit card can help you build your credit history, which could be helpful when looking for an apartment, a car loan, and even a job. Access your FICO® Score for free within Online Banking or your Mobile Banking app."
+        },
+        {
+          "desc":"Redeem points for a statement credit to pay for travel or dining purchases, such as flights, hotel stays, car and vacation rentals, baggage fees, and also at restaurants including takeout."
+        }
+      ]
+    },
+    {
+      "id" : 10,
+      "cardName" : "Well Fargo Active Cash Card",
+      "cardType" : "visa",
+      "cardImg" : "https://ck-content.imgix.net/pcm/content/a64dd4c50da9f0a06137-ee9b7941cfd93719cb51-WF_ActiveCash_RGB__Card_Art_.png?auto=compress%2Cformat&dpr=1",
+      "bankName" : "Well Fargo",
+      "reviews" : 161,
+      "cardPrice" : 265,
+      "IBTapr" : "0% for 15 Months*",
+      "RBTapr" : "19.99%, 24.99%, or 29.99%* variable",
+      "BTF" : "3% for 120 days from account opening, then up to 5%; min: $5",
+      "AF" : "$0",
+      "details": [
+        {
+          "desc":"0% intro APR for 15 months from account opening on purchases and qualifying balance transfers, then a 19.99%, 24.99%, or 29.99% variable APR; balance transfers made within 120 days qualify for the intro rate and fee of 3% then a BT fee of up to 5%, min: $5"
+        },
+        {
+          "desc":"Enjoy a premium collection of benefits at a selection of the world's most intriguing and prestigious hotel properties with Visa Signature Concierge"
+        },
+        {
+          "desc": "Get up to $600 of cell phone protection against damage or theft when you pay your monthly cell phone bill with your eligible Wells Fargo card (subject to a $25 deductible)."
+        }
+      ]
+    }
+  ],
+  "admin" : 
+  [
+    {
+      "email":"chakresh@mail.com",
+      "password":"12345",
+      "name":"Chakresh Jha"
+    },
+    {
+      "email":"ankit@mail.com",
+      "password":"12345",
+      "name":"Ankit Choudhary"
+    },
+    {
+      "email":"shreekant@mail.com",
+      "password":"12345",
+      "name":"Shreekant Totla"
+    }
+  ],
+  "users":
+  [
+    {
+      "id":1,
+      "name":"Chakresh Jha",
+      "cardNo" : "5894 6598 4587",
+      "creditScroe":"810",
+      "mail":"chakresh@mial.com",
+      "password":"12345",
+      "gender":"male",
+      "dob" : "09-02-2001",
+      "address":"56, ram chandra ghosal lane konnagar",
+      "phoneNo" : "1234567890",
+      "loan": "no loans yet",
+      "annualIncome":"1200000"
+    }
+  ],
+  "users2":[],
+  "temp":[],
+  "temp1":[],
+  "temp2":[],
+  "temp4":[],
+  "temp5":[]
+  
+}
